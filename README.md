@@ -10,9 +10,9 @@ The script is a work in progress. Hopefully it will be made less rudimenaty in
 future updates.
 
 INSTRUCTIONS for MAGON v1:
--Name your files and add the paths to the dedicated line in the script.
--Create a dictionary file (pop list, eg. "magon-dictionary.dat") with the names of the populations you want to keep.
--Run the script. 
+Name your files and add the paths to the dedicated line in the script.
+Create a dictionary file (pop list, eg. "magon-dictionary.dat") with the names of the populations you want to keep.
+Run the script. 
 
 EXAMPLE USAGE:
 python3 magon_v1.py
